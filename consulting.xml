@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2025-06-09T12:00:00+03:00">
+  <shop>
+    <name>VladimirFrolov.PRO</name>
+    <company>Фролов Владимир Евгеньевич</company>
+    <url>https://vladimirfrolov.pro</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Бизнес-консалтинг</category>
+    </categories>
+    <offers>
+
+      <offer id="201" type="service" available="true">
+        <url>https://vladimirfrolov.pro/#pitchandbusinessplan</url>
+        <price>60000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Питч-презентация и выступление для инвестора</name>
+        <description>Подготовка питч-презентации по стандартам Y Combinator и Сколково. Прогон речи, фокусировка на сути, ответы на неудобные вопросы. Подходит для фондов, акселераторов, инвесторов.</description>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <vendor>Владимир Фролов</vendor>
+        <vendorCode>CONSULT-201</vendorCode>
+        <region>онлайн</region>
+      </offer>
+
+      <offer id="202" type="service" available="true">
+        <url>https://vladimirfrolov.pro/#pitchandbusinessplan</url>
+        <price>50000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Бизнес-план и финмодель для инвестора или запуска</name>
+        <description>Google-таблица с формулами, 3 сценария (базовый, пессимистичный, оптимистичный), юнит-экономика, точка безубыточности. Для инвесторов, грантов, стартапов.</description>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <vendor>Владимир Фролов</vendor>
+        <vendorCode>CONSULT-202</vendorCode>
+        <region>онлайн</region>
+      </offer>
+
+      <offer id="203" type="service" available="true">
+        <url>https://vladimirfrolov.pro/#SEOandstrategy</url>
+        <price>25000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Глубокий аудит сайта: структура, смыслы, SEO</name>
+        <description>Разбор структуры и смыслов сайта, SEO-анализ, микроразметка, рекомендации по контенту. Отдаю чек-лист правок и идеи для новых страниц.</description>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <vendor>Владимир Фролов</vendor>
+        <vendorCode>CONSULT-203</vendorCode>
+        <region>онлайн</region>
+      </offer>
+
+      <offer id="204" type="service" available="true">
+        <url>https://vladimirfrolov.pro/#SEOandstrategy</url>
+        <price>15000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Стратегическая сессия: приоритеты и точки роста</name>
+        <description>Помощь в фокусировке проекта: слабые зоны, позиционирование, стратегия роста. Карта приоритетов, следующий шаг — без воды.</description>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <vendor>Владимир Фролов</vendor>
+        <vendorCode>CONSULT-204</vendorCode>
+        <region>онлайн</region>
+      </offer>
+
+      <offer id="205" type="service" available="true">
+        <url>https://vladimirfrolov.pro/#pitchreviewandmarketing</url>
+        <price>60000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Годовой маркетинговый план + контент-стратегия</name>
+        <description>Маркетинг на 12 месяцев: SEO, контекст, PR, соцсети, реклама, воронки, УТП. Контент-план, приоритеты, упаковка под клиента.</description>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <vendor>Владимир Фролов</vendor>
+        <vendorCode>CONSULT-205</vendorCode>
+        <region>онлайн</region>
+      </offer>
+
+      <offer id="206" type="service" available="true">
+        <url>https://vladimirfrolov.pro/#pitchreviewandmarketing</url>
+        <price>15000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Разбор питч-презентации: что не работает и как усилить</name>
+        <description>Разбор логики, структуры, визуала, формулировок. Помощь в усилении подачи, доверия и конверсии.</description>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <vendor>Владимир Фролов</vendor>
+        <vendorCode>CONSULT-206</vendorCode>
+        <region>онлайн</region>
+      </offer>
+
+      <offer id="207" type="service" available="true">
+        <url>https://vladimirfrolov.pro/#uniteconomics</url>
+        <price>15000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Разбор юнит-экономики: LTV, CAC, ROI и правда о проекте</name>
+        <description>Метрики на клиента и проект, уязвимые места, гипотезы роста. Формирую решения и отдаю PDF с выводами.</description>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <vendor>Владимир Фролов</vendor>
+        <vendorCode>CONSULT-207</vendorCode>
+        <region>онлайн</region>
+      </offer>
+
+      <offer id="208" type="service" available="true">
+        <url>https://vladimirfrolov.pro/#uniteconomics</url>
+        <price>7000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <name>Разбор идеи и сценариев: запускать или нет</name>
+        <description>Анализ спроса, конкурентов, рисков, слепых зон. Помогаю принять честное и взвешенное решение.</description>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <vendor>Владимир Фролов</vendor>
+        <vendorCode>CONSULT-208</vendorCode>
+        <region>онлайн</region>
+      </offer>
+
+    </offers>
+  </shop>
+</yml_catalog>
