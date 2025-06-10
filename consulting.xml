@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-06-09T12:00:00+03:00">
+<yml_catalog date="2025-06-10T12:00:00+03:00">
   <shop>
     <name>VladimirFrolov.PRO</name>
     <company>Фролов Владимир Евгеньевич</company>
@@ -10,6 +10,7 @@
     <categories>
       <category id="1">Бизнес-консалтинг</category>
     </categories>
+    <sets></sets>
     <offers>
 
       <offer id="201" type="service" available="true">
@@ -23,7 +24,10 @@
         <pickup>false</pickup>
         <vendor>Владимир Фролов</vendor>
         <vendorCode>CONSULT-201</vendorCode>
-        <region>онлайн</region>
+        <param name="рейтинг">5.0</param>
+        <param name="число отзывов">0</param>
+        <param name="регион">онлайн</param>
+        <param name="годы опыта">12</param>
       </offer>
 
       <offer id="202" type="service" available="true">
@@ -37,7 +41,10 @@
         <pickup>false</pickup>
         <vendor>Владимир Фролов</vendor>
         <vendorCode>CONSULT-202</vendorCode>
-        <region>онлайн</region>
+        <param name="рейтинг">5.0</param>
+        <param name="число отзывов">0</param>
+        <param name="регион">онлайн</param>
+        <param name="годы опыта">12</param>
       </offer>
 
       <offer id="203" type="service" available="true">
@@ -51,7 +58,10 @@
         <pickup>false</pickup>
         <vendor>Владимир Фролов</vendor>
         <vendorCode>CONSULT-203</vendorCode>
-        <region>онлайн</region>
+        <param name="рейтинг">5.0</param>
+        <param name="число отзывов">0</param>
+        <param name="регион">онлайн</param>
+        <param name="годы опыта">12</param>
       </offer>
 
       <offer id="204" type="service" available="true">
@@ -65,7 +75,10 @@
         <pickup>false</pickup>
         <vendor>Владимир Фролов</vendor>
         <vendorCode>CONSULT-204</vendorCode>
-        <region>онлайн</region>
+        <param name="рейтинг">5.0</param>
+        <param name="число отзывов">0</param>
+        <param name="регион">онлайн</param>
+        <param name="годы опыта">12</param>
       </offer>
 
       <offer id="205" type="service" available="true">
@@ -79,7 +92,10 @@
         <pickup>false</pickup>
         <vendor>Владимир Фролов</vendor>
         <vendorCode>CONSULT-205</vendorCode>
-        <region>онлайн</region>
+        <param name="рейтинг">5.0</param>
+        <param name="число отзывов">0</param>
+        <param name="регион">онлайн</param>
+        <param name="годы опыта">12</param>
       </offer>
 
       <offer id="206" type="service" available="true">
@@ -93,7 +109,10 @@
         <pickup>false</pickup>
         <vendor>Владимир Фролов</vendor>
         <vendorCode>CONSULT-206</vendorCode>
-        <region>онлайн</region>
+        <param name="рейтинг">5.0</param>
+        <param name="число отзывов">0</param>
+        <param name="регион">онлайн</param>
+        <param name="годы опыта">12</param>
       </offer>
 
       <offer id="207" type="service" available="true">
@@ -107,7 +126,10 @@
         <pickup>false</pickup>
         <vendor>Владимир Фролов</vendor>
         <vendorCode>CONSULT-207</vendorCode>
-        <region>онлайн</region>
+        <param name="рейтинг">5.0</param>
+        <param name="число отзывов">0</param>
+        <param name="регион">онлайн</param>
+        <param name="годы опыта">12</param>
       </offer>
 
       <offer id="208" type="service" available="true">
@@ -121,7 +143,10 @@
         <pickup>false</pickup>
         <vendor>Владимир Фролов</vendor>
         <vendorCode>CONSULT-208</vendorCode>
-        <region>онлайн</region>
+        <param name="рейтинг">5.0</param>
+        <param name="число отзывов">0</param>
+        <param name="регион">онлайн</param>
+        <param name="годы опыта">12</param>
       </offer>
 
     </offers>
